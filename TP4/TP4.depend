@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521124880 source:c:\users\luca\documents\c++\tp4\main.cpp
+	<iostream>
+	"mystack.h"
+
+1521125198 c:\users\luca\documents\c++\tp4\mystack.h
+

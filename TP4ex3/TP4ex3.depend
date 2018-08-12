@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521128858 source:c:\users\luca\documents\c++\tp4ex3\main.cpp
+	<iostream>
+	"hellastacked.h"
+	<string.h>
+
+1521128049 c:\users\luca\documents\c++\tp4ex3\hellastacked.h
+

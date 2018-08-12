@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524754870 source:c:\users\luca\documents\c++\tp9\main.cpp
+	<stdio.h>
+	"liste1.h"
+	"queue1.h"
+
+1524751926 c:\users\luca\documents\c++\tp9\liste1.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1524751929 c:\users\luca\documents\c++\tp9\queue1.h
+	<stdio.h>
+	<iostream>
+

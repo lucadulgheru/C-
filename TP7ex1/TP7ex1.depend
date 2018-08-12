@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522674091 source:c:\users\luca\documents\c++\tp7ex1\main.cpp
+	<iostream>
+	"liste1.h"
+
+1522674645 c:\users\luca\documents\c++\tp7ex1\liste1.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

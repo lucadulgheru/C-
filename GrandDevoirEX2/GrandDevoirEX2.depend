@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522846433 source:c:\users\luca\documents\c++\granddevoirex2\main.cpp
+	<iostream>
+	"issaqueue.h"
+	<cstring>
+
+1522751888 c:\users\luca\documents\c++\granddevoirex2\issaqueue.h
+

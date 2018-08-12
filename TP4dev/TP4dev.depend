@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521461925 source:c:\users\luca\documents\c++\tp4dev\main.cpp
+	<iostream>
+	"Stackerino.h"
+
+1521461974 c:\users\luca\documents\c++\tp4dev\stackerino.h
+

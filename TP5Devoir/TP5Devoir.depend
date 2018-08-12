@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522066347 source:c:\users\luca\documents\c++\tp5devoir\main.cpp
+	<iostream>
+	"queue1.h"
+	<string.h>
+
+1521990181 c:\users\luca\documents\c++\tp5devoir\queue1.h
+	<stdio.h>
+	<iostream>
+
